@@ -2,6 +2,8 @@
 
 [Average Value of a Function Calculator](https://www.emathhelp.net/calculators/calculus-2/average-value-of-a-function-calculator/?f=sinx&a=0&b=3.14%2F2&steps=on)
 
+[Calculate the Integral](https://www.integral-calculator.com/)
+
 [Calculate the Derivative](https://www.derivative-calculator.net/)
 
 [Geogebra calculator](https://www.geogebra.org/calculator)
